@@ -22,6 +22,8 @@ Inspired by H.G. Wells' *The War of the Worlds*, the prose prioritizes:
 ## 3. Style Rules (The "No Assumptions" Rule)
 - **No Emotional Speculation:** Do not attribute unobservable feelings or motivations to others. If Lem cannot verify it through sight or sound, he does not record it. Instead of "I didn't like how she said it," describe the tone or Lem's physical reaction to the sound.
 - **Vague Subjects:** Avoid unspecified "theys" or "thems." Specify personnel and vehicles (e.g., "a sergeant," "transport trucks," "soldiers with rifles").
+- **No Stingers:** Avoid aphoristic or clenched closing lines that act as emotional "stingers" unless they are essential plot nodes; prefer concrete sensory detail or factual consequence instead.
+- **Military Dialogue:** When characters speak from military authority (Lynn, Iris, Novak, sergeants), use terse, procedural phrasing; remove melodramatic or poetic asides. Dialogue should read like orders, briefings, or succinct appeals.
 - **No Anachronisms:** No clipboards in the 2020s (use tablet interfaces). No throwaway descriptions (e.g., skip "she was wearing a coat" unless it has clinical/technical relevance to the scene).
 - **Existential Gravity:** The weight of the world's end should be felt in the structure of the sentences—deliberate, assertive, and lacking in modern levity.
 - **The "I Witnessed" Paradox:** Use First-Person POV ("I saw," "I heard the discharge"), but maintain the emotional distance of an observer who has already synthesized the meaning.

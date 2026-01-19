@@ -34,15 +34,15 @@ Lynn stepped from the command vehicle. She did not wear a uniform, yet the serge
 
 "I have been looking for you for a long time," she said, her voice dropping as the soldiers moved to secure the perimeter. "You were hidden in deep cover as an ordinary orphan in an ordinary town. It took the end of the world for the generals to trust me enough to hand over the location data after the monolith strikes. We are very late."
 
-She reached out and placed a hand on my shoulder, attempting to activate my Aether-Drive. Suddenly, I felt something cold and heavy pressing against the back of my mind. It felt like a foreign logic was installing itself into my nervous system. I wanted to help her, but the feeling was physically sickening and invasive. It was an oily sensation of someone else trying to take the controls of my muscles. My body locked up, rejecting the remote control inception, and I pulled away.
+She reached out and placed a hand on my shoulder, initiating the Passenger Protocol. A cold, precise pressure threaded into the back of my mind—Lynn's authority aligning with the Aether-drive. It was invasive and immediate; my muscles began to follow directives that felt external. I resisted; my body tensed and pulled away.
 
-Lynn looked at her watch. "I expected this," she said calmly. "The first time is always the hardest, and we do not have twenty minutes for you to adjust."
+Lynn checked her watch. "I expected this," she said, voice professional. "First time is the hardest. No time for gradual acclimation."
 
-She struck me once with a clinical precision. My world went dark as I passed out.
+She delivered a measured strike to render me unconscious.
 
-While unconscious, I entered Aether-space for the first time. It was not a room, and it was not a dream. Lynn was there, but so was another version of myself. My future self explained that I was a Wood Vessel. Lynn revealed that I was not human and that I was the only Wood Vessel in existence. She said she required my cooperation. I believed her.
+While unconscious, I entered Aether-space for the first time. It was not a room, and it was not a dream. Lynn was there, and another version of myself explained I was a Wood Vessel and that she needed my cooperation.
 
-Then the connection severed and I snapped back into my own body. Lynn ended the Passenger Protocol. I woke up on the floor of my living room and found that my body was being remote-controlled by her directives. I could not move my arms or legs by my own will, but I stood up anyway. I walked out the front door, though I was not the one making the choice. It felt like something was at the base of my brain, pulling at my muscles like I was a puppet. I was just a passenger in my own skin.
+When the link ended I woke on my living room floor. For a time my limbs obeyed the directives issued during activation; movement felt choreographed by an external will. Then the Passenger Protocol released—Lynn had ended the direct control—and I felt myself move by my own intent again. I left in a transport with the residue of that invasion at the base of my skull.
 
 I watched through the rear window of a transport vehicle as we drove away. The monoliths were close now, their long shadows stretching over the rooftops. I observed the terrifying grace with which they loped through the suburbs.
 

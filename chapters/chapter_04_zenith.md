@@ -30,7 +30,7 @@ This revelation was the demoralizing revelation they had warned us about. What w
 
 On the bridge, the people were losing their focus. An older crewman who had worked on ships for a long time sat at the navigation station, his splayed hands trembling as he stared at the lunar surface. He missed a navigation adjustment, causing a stabilizer to fail. He spoke with a quiet hesitation, repeating the coordinate data instead of entering it. The other men watched him, their faces tight with a nervousness they were trying to hide.
 
-Iris Novak stepped forward, her own posture rigid and unwavering. She spoke to him, her voice a calm anchor in the rising panic. "The briefing covered the potential for cognitive dissonance," she said, leaning toward the man. "The Moon's distance, the atmosphere—it was the highest level of classification. It was a secret held to protect the social order of Earth until we were forced to act. This is the burden of leadership we were selected to carry. The Core has finally trusted us with the reality of the situation."
+Iris Novak stepped forward, her posture rigid. "This was classified to prevent collapse of civil order," she said. "You were briefed on the protocols for demoralizing revelations. The Core delegated this burden to us."
 
 The soldier looked at her. "The Core hid the heavens from us," he said, his voice cracking with a grief that felt like treason. "If we had known what was right in front of our eyes, we would not have been blind when the monoliths came. This isn't a secret. it's a failure."
 

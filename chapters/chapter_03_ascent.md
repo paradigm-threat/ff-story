@@ -23,7 +23,7 @@ Aboard the mission spacecraft, Lem is confronted by a military marshal over his 
 ## Draft (YOUNG_ADULT)
 The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.
 
-Lynn's voice crackled in my earpiece, her authority bypassing the ship's chain of command with clinical efficiency. She spoke to the marshal, her words sharp and professional, and he stepped aside without another word. Then she spoke to me, telling me to find a position among the soldiers, to stay quiet, and to observe the personnel's conduct. She informed me that I was now part of the assault mission and to obey any orders given.
+Lynn's voice came over the earpiece invoking a standing order; the marshal yielded without argument. She told me to take a place among the soldiers, to stay quiet, and to observe. Her instruction carried the force of command; I was to follow orders as required.
 
 I moved through the ship, observing its massive scale. Support beams and heavy cables stretched into the shadows of the ceiling. The application of classified anti-gravity technology was evident in the way the interior was constructed. The final rituals of preparation were underway. The engines began to hum with a low vibration that I could feel in my teeth.
 
