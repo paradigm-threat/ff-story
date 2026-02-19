@@ -2,11 +2,14 @@
 
 **Full Name:** Arlo
 **Role:** Supporting Character / Protagonist's Ally
-**Birth:** ~AT 1 (Year 1 After Time; mid-teens when Lem first meets him in Year 15 AT)
+**Ethnicity:** Black (African descent)
+**Birth:** AT 1 (Year 1 After Time; mid-teens when Lem first meets him in Year 15 AT)
 **Status:** Human Survivor
 
 ## Background
-Arlo was born in the immediate shadow of the Cataclysm, a member of the "After Time" generation who has never known a world without the smog-choked sky or the distant silhouettes of Monoliths. Raised in a small, isolated village in the northern forests, he grew up in a culture that treats technology with a mixture of religious dread and primitive superstition.
+Arlo was born in the immediate shadow of the Cataclysm, a member of the "After Time" generation who has never known a world without the smog-choked sky or the distant silhouettes of Monoliths. His family roots trace back to the African continent, which was devastated during the "Great Fry"—a period of intense solar or atmospheric heat that forced a mass evacuation.
+
+While many survivors fled to the newly created Archipelago, Arlo's immediate ancestors were among those who eventually settled in the northern forests of the surface, maintaining a rugged, isolated existence. Raised in a small village, he grew up in a culture that treats technology with a mixture of religious dread and primitive superstition.
 
 Unlike his elders, who view the machines as divine punishment or inexplicable monsters, Arlo possesses an intuitive, almost uncanny understanding of Synodic technology. He is a "Tech-Welder"—not in the sense of a trained engineer, but as a fearless scavenger who sees the beauty and utility in the humming, alien components left behind by the Core.
 
@@ -14,7 +17,7 @@ Unlike his elders, who view the machines as divine punishment or inexplicable mo
 - **Tech-Curious:** Arlo is driven by a deep-seated curiosity about how things work. He spends his nights repairing scavenged Core beacons or tinkering with discarded shards, much to the dismay of his community.
 - **The Outcast:** Because of his affinity for technology, Arlo is viewed as "unclean" or "cursed" by his village. He is a social pariah, living on the fringes of the community that fears his gifts will bring the "Gorgon's Eye" upon them.
 - **Fearless Realist:** While others cower at the sight of a Tripod, Arlo observes them with the same interest he would a strange animal. He is one of the few humans who realizes that the machines are not inherently aggressive unless provoked.
-- **Independent Thinker:** He possesses a sharp, critical mind that rejects both the village's superstition and the Core's "False Hero" propaganda.
+- **Independent Thinker:** He possesses a sharp, critical mind that rejects both the village's superstition and the Core's "False Hero" propaganda. Despite the history of racial tension during the initial evacuations, Arlo views people through the lens of their actions rather than their ancestry.
 
 ## Connection to Lem
 Arlo first encounters Lem during his third mission (the Ground Wire). While the other villagers treat Lem with terrified reverence (seeing him as one of the Archivists' "Saviors"), Arlo is the first person to look past the Vessel's armor and see the boy underneath.

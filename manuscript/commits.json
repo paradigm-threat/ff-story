@@ -1,5 +1,10 @@
 [
     {
+        "hash": "831b838",
+        "date": "2026-02-07",
+        "message": "narrative: refine ch11 synopsis with core beats and fulfill titles"
+    },
+    {
         "hash": "709c089",
         "date": "2026-02-07",
         "message": "narrative: expand ch11 synopsis and finalize beat titles"
@@ -93,10 +98,5 @@
         "hash": "b50fa59",
         "date": "2026-02-04",
         "message": "Rename Ch 5 to 'Monitor' and Ch 8 to 'Deep Well'"
-    },
-    {
-        "hash": "fbfc6ad",
-        "date": "2026-02-04",
-        "message": "Rename chapters 17 and 18, format Part V and VI in INDEX, and regenerate manuscripts"
     }
 ]

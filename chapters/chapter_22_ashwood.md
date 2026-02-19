@@ -25,6 +25,16 @@ On the Archipelago floating islands, Lem meets Cassia, who becomes his guardian 
 16. TODO: Describe the adaptive behaviors of local flora and fauna, if any.
 17. **The Paralysis Secret:** He remembers Rahu's paralysis after the aborted Lunar Reset—a detail kept from Rahu himself to ensure his continued obedience, as Rahu lacks Lem's persistence and cannot remember the event easily. Note: Rahu was also subjected to the 'Slow-burn' memory wipe proceedure which reinforces the Core's narrative in Rahu's memory, however this is not revealed in the Museum. 
 18. **Project Counter Fire Briefing:** Lem is drafted into Project Counter Fire, which has already moved into its next phase: reclaiming the Dead Zone surrounding the now-defunct Fire City.
+19. **Kiran's Intervention:** Lem meets Kiran
+20. **History of the Great Fry:** In a quiet moment, Kiran explains the "Great Fry" to Lem—a period of intense solar or atmospheric heat that devastated Africa and forced a mass evacuation to the Archipelago during the Cataclysm.
+21. **The Schism and the Archipelago:** Kiran reveals the racial and cultural schisms that plagued the early evacuation efforts. Many non-black people were willing to surrender their beliefs for Core security, while those who clung to their traditions were deemed "unfit." The Core's leadership, primarily white, officially enforced equality but struggled against civilian-level racism and infighting.
+22. **The Legend of Old Man Azar:** Kiran mentions "Old Man Azar," a black man born in the Before Time who refused the Core's evacuation. Kiran describes Azar as an "inefficiency" who chose to stay behind on the scorched surface to help those the Core had abandoned, rather than accept the Hive's revision of history.
+23. **The Dissolution of Tension:** Kiran reflects on how these racial tensions have mostly dissolved in the current AT era, viewing the past's social struggles as "systemic noise" that the Core's meritocracy has since refined out of existence.
+24. TODO: Incorporate Azar's backstory into Lem's internal reflections or a conversation with Kiran:
+    - Incident 1: Azar's white friends and a truck driver intervening during a forced draft in Morocco.
+    - Incident 2: A white marine seizing control of a transport bus from a segregationist driver to ensure all recruits boarded in their original order.
+25. TODO: Detail the "Great Fry" and its impact on the African continent as a catalyst for the Core's rise and the Archipelago's creation.
+26. TODO: Emphasize that the Core's leadership was mostly white and their role in the evacuation's racial dynamics.
 
 **YA Progress:** 36% (364/1000 words)
 **13+ Progress:** 65% (650/1000 words)
@@ -41,12 +51,16 @@ Cassia noted my unique memory persistence and rapid reintegration cycle. She sta
 
 The museum narrative utilizes historical names and symbols to construct a revised chronology. Rahu was present in the plaza, surrounded by individuals identified as "Lamenters." This group views Vessels as spiritual reincarnations. Rahu’s biometric data indicated heightened stress. He appeared to have no recollection of the events on the Moon or the "Slow-burn" memory procedure performed by the Core. He functioned according to his assigned role as a hero figure.
 
-Cassia officially designated my unit as "Ashwood." She stated the name was a reference to the Fire City ruins and Core resilience. I accepted the designation and confirmed my participation in Project Counter Fire. This project involves the reclamation of the Dead Zone. I maintained my internal identity as Lem while complying with the research and mission requirements of the Core. I will continue to monitor the discrepancy between the external narrative and my internal data.
+Cassia officially designated my unit as "Ashwood." She stated the name was a reference to the Fire City ruins and Core resilience. I accepted the designation and confirmed my participation in Project Counter Fire. This project involves the reclamation of the Dead Zone. I also met Kiran, a high-ranking analyst of African descent. He spoke of the "Great Fry" and the racial tensions that had once plagued the evacuations to the Archipelago. Kiran noted that while those struggles were a tedious part of the past, the current meritocracy has largely moved beyond them, viewing people such as "Old Man Azar"—who stayed on the surface to help the abandoned—as historical curiosities rather than heroes. I maintained my internal identity as Lem while complying with the research and mission requirements of the Core. I will continue to monitor the discrepancy between the external narrative and my internal data.
 
 ## Draft (13_PLUS)
 The Archipelago was an exercise in celestial hubris—a collection of lunar fragments tethered together by aetheric anchors, hovering in the perpetual twilight of the stratosphere. From the observation deck of the Core Command Center, I watched the distorted curvature of the Earth. It was a world of shadows and industrial scars. Cassia, my designated guardian and a High Archivist of the Core, approached with the measured grace of someone who had never known the weight of gravity.
 
 "Your arrival is a pivot point for the Reconstruction, Ashwood," she announced. Her voice carried the weight of a thousand-year conviction. "You were recovered from the Synodic occupation zones just as the infection was beginning to take hold of your humanoid core."
+
+During the acclimatization period, I worked with Kiran, a high-ranking analyst of African descent. He provided a perspective on the "Great Fry"—the cataclysmic devastation of Africa that forced a mass evacuation to the Archipelago. He spoke of the racial tensions that had once plagued the process, noting that the Core leadership—initially mostly white—tried to enforce equality despite civilian-level racism and schisms. Kiran viewed the past as a series of solved problems, mentioning figures like "Old Man Azar," who refused evacuation and stayed behind to help those the Core deemed "unfit," as relics of a more problematic era.
+
+For Kiran, the Core's meritocracy had solved the social problems of the Before Time, but to me, it felt more like a refined form of suppression. I accepted the designation of "Ashwood" as a mask to preserve my internal identity as Lem.
 
 The narrative was flawless. In the Core’s official record, the Great Fry of Year 0 had triggered a millennium of alien darkness. I was told that humanity had spent a thousand years hiding in the shadows of the "Maya Cult" and the "Gorgon Swarms" before Rahu and Ajax returned to liberate the race in Year 1000. It was a masterful synthesis of fact and fable. They had taken my real history—a mere fifteen years ago—and stretched it into an epic of ancient suffering to justify their current tyranny.
 

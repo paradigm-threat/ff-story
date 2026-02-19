@@ -290,22 +290,25 @@
         "_count": 3
       },
       "arlo": {
-        "arlo-entry.png": {
-          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAsABUB8JQBOgB6F7jQAAPYo1udj2o/Y5ckwXqGwjJ7kzKX9GLiceOD+JoECkQAAAA=="
+        "arlo-high-enclave.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoLABAABUB8JYgCdAEX6RRMHuAAzh9H9Wt9xVOB4Jy+uFNijyg3jn2S9tBebKdnjKrsmYa87xMdsgsneIAAAA=="
         },
         "arlo-landscape.png": {
-          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JQBOgCHITmNM2wAAyXYvK2uZ0XAlGlwJ/2H/AoR09BgO8ts38oq6DfKlp5P0fSp2AAAA"
-        },
-        "arlo-landscape2.png": {
-          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JYgCdADc3kGfAAD6TPaykEQk40DEQ74Y/TIDiET2dM2IaUlRNdhMdrx0GYAA"
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAsABUB8JZACdAECmK/AXBMAAP033Edecxly4gEE3RrZ/DZFvUAp/RLT5hbs8ysazm8HWdZO8QAA"
         },
         "arlo-pillar.png": {
-          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JYgCdAEQex2mhAAAzh2HRpHDF4p6aopRrdcWSz3U0OQzAKt58He/QFwClFMcsorHJ8gUoIWoXAAA"
+          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoLABAABUB8JYgCdAEPRlLNxYAAzaToRUgAiOPy8K0/RChombJ5iVPvzhOrWtOsJuOg2f1x2NaW1C23fm72mFFE/AAAAA=="
         },
-        "arlo-portrait.png": {
-          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoLABAABUB8JYgCdADcYrPhQADxQKlvJ39POJotVFUD5oWE4t5g5AoJxP3zYyVzwS4HiUtIhA/jrAAA"
+        "_count": 3
+      },
+      "azar": {
+        "azar-ground-wire.png": {
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JZQCdADOf+saQAD9mppEeqSNCAk3ZezlYQvNeEBZUuyr8ZkwkggJl3TsaAAA"
         },
-        "_count": 5
+        "azar-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JaACdAB5JiSAAPElDsqUJFzUygVlv84Pmh5nWRAGPdWlhMAykEaxD7yKcKN9VgAAAA=="
+        },
+        "_count": 2
       },
       "cassia_vane": {
         "cassia-awakened.png": {
@@ -371,20 +374,20 @@
         "_count": 4
       },
       "kiran": {
+        "kiran-ashwood.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoQAAsABUB8JYwCw7D5G0iGz+OAAP6f39dQdN5A1TJtEThrIj5X5k3Dhw1MVMXPgxoG4dVAXF7SDHnmTAAAAA=="
+        },
         "kiran-desktop.png": {
-          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAQCdASoQAAsABUB8JQBOgB4DvBcAAMo9ihe20GGyc9ZdrjXqVM5eXxm91AGH/ePlIRzIdPrMzN3PuiKiXu6/SkwW9AAA"
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JZgC7ACVma1qAAD+P7kZyZyErtOv19nZ/h3iK2dn0DAMEtUW6Th6Fp1w267D3kciWxFQVwcAAA=="
         },
         "kiran-forge.png": {
-          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JYwCsAD1WF1DgAD9ritM/uW3Q8Z2onOil5LdxbevcTS8VDIyyIXiDPHGWmY+FMcAAA=="
+          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsABUB8JYwC/ODD2s4UAAD+0NkrCe3nloebpQOUvhG02Xby04YeSbhx7y48a6gAAA=="
         },
-        "kiran-refusal1.png": {
-          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JQBOgBZGukAA/bOUT1sjhWtn0aCCPk6donjIUoHWdZkRBAPihJdkpOkpXkdtaQ7ICgAA"
+        "kiran-new-hero.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZwAAgVMda8V0AD+0eMlA4dt16Va9JgoP651axHjoQltEW6p+gGUGEFNUWMzQIAAAA=="
         },
-        "kiran-refusal2.png": {
-          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsABUB8JQBOgB6Gk/6OAAD9k5ovqPl9ZYKZ7odh9lSrJQUYQ1AhX4cdUO93rwCAAA=="
-        },
-        "kiran.png": {
-          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JQBdgB9FTf+krAD1mJC/JGFmmjaqlrEa4qpJ6T3ZtgKolbXCHKSsv1j9AAAA"
+        "kiran-parley.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZwAAveFhU4MZEgAAP7ATzY/g42q7V1uV0BF7ONs+SbOhR8zX2FMljee2sXsqvGTtVkcAAA="
         },
         "_count": 5
       },
@@ -703,6 +706,9 @@
       "arlo.md": {
         "_title": "Character: Arlo"
       },
+      "azar.md": {
+        "_title": "Character: Old Man Azar"
+      },
       "cassia_vane.md": {
         "_title": "Character Profile: Cassia Vane"
       },
@@ -733,7 +739,7 @@
       "vector.md": {
         "_title": "Vector"
       },
-      "_count": 13
+      "_count": 14
     },
     "entities": {
       "gorgons.md": {
@@ -831,7 +837,7 @@
       },
       "_count": 1
     },
-    "_count": 40
+    "_count": 41
   },
-  "_count": 243
+  "_count": 244
 }
