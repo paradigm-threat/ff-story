@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.141
-> Updated: 2026-02-19
+> Draft Version: 0.13.142
+> Updated: 2026-04-07
 
 # PART I: LUNAR MISSION
 

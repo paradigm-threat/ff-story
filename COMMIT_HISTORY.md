@@ -1,3 +1,4 @@
+664448a Update character profiles for Arlo, Kiran, and Azar with Black representation and Great Fry history
 831b838 narrative: refine ch11 synopsis with core beats and fulfill titles
 709c089 narrative: expand ch11 synopsis and finalize beat titles
 7619e7c docs: expand chapter 8 synopsis and sync manuscript
