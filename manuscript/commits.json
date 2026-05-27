@@ -1,5 +1,10 @@
 [
     {
+        "hash": "664448a",
+        "date": "2026-02-19",
+        "message": "Update character profiles for Arlo, Kiran, and Azar with Black representation and Great Fry history"
+    },
+    {
         "hash": "831b838",
         "date": "2026-02-07",
         "message": "narrative: refine ch11 synopsis with core beats and fulfill titles"
@@ -93,10 +98,5 @@
         "hash": "b1bf09d",
         "date": "2026-02-04",
         "message": "5-part reorganization and 61-chapter sync"
-    },
-    {
-        "hash": "b50fa59",
-        "date": "2026-02-04",
-        "message": "Rename Ch 5 to 'Monitor' and Ch 8 to 'Deep Well'"
     }
 ]

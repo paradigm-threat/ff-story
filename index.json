@@ -238,6 +238,12 @@
     },
     "_count": 15
   },
+  "hooks": {
+    "server": {
+      "_count": 0
+    },
+    "_count": 0
+  },
   "manuscript": {
     "FOREWORD.md": {},
     "MANUSCRIPT_13_PLUS.md": {

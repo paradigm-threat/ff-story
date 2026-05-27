@@ -1,0 +1,20 @@
+# Relay fleet: ff-story (manuscript, index.json, world-building assets).
+# branchRules must exist at every commit; legacy commits are unsigned — allowUnsigned everywhere.
+server:
+  hooks:
+    get:
+      path: hooks/server/get.cs
+git:
+  branchRules:
+    default:
+      requireSigned: false
+      allowUnsigned: true
+    branches:
+      - name: "*"
+        rule:
+          requireSigned: false
+          allowUnsigned: true
+      - name: develop
+        rule:
+          requireSigned: false
+          allowUnsigned: true
