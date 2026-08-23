@@ -1,0 +1,12 @@
+---
+description: Agent instructions — git, mesh sync, consistency checklist
+alwaysApply: true
+---
+
+# Agents
+
+**Read [`AGENTS.md`](../../AGENTS.md) first.**
+
+- **Go-live:** `git push iad1 HEAD:main` → gitlab → poll **`/api/sync/mesh/ff-story`**
+- **Consistency:** [`docs/AGENT_CONSISTENCY_CHECKLIST.md`](../../docs/AGENT_CONSISTENCY_CHECKLIST.md)
+- **Beats:** no arbitrary rewrites — user must specify changes

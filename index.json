@@ -1,4 +1,7 @@
 {
+  "AGENTS.md": {
+    "_title": "Agent instructions"
+  },
   "CONTRIBUTING.md": {
     "_title": "Contributing to Forgotten Future"
   },
@@ -845,5 +848,5 @@
     },
     "_count": 41
   },
-  "_count": 244
+  "_count": 245
 }

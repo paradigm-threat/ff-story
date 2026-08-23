@@ -1,5 +1,10 @@
 [
     {
+        "hash": "bff49f4",
+        "date": "2026-05-27",
+        "message": "feat(relay): add .relay.yaml and get hook for markdown/WebP"
+    },
+    {
         "hash": "664448a",
         "date": "2026-02-19",
         "message": "Update character profiles for Arlo, Kiran, and Azar with Black representation and Great Fry history"
@@ -93,10 +98,5 @@
         "hash": "5e84dd9",
         "date": "2026-02-05",
         "message": "Refactor chapters 1-16 to preserve Lem's mystery; update world-building and manuscript"
-    },
-    {
-        "hash": "b1bf09d",
-        "date": "2026-02-04",
-        "message": "5-part reorganization and 61-chapter sync"
     }
 ]

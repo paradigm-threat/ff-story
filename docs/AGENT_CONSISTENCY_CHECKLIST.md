@@ -1,5 +1,7 @@
 ## Forgotten Future – Agent Consistency Checklist
 
+**Agent hub:** [`AGENTS.md`](../AGENTS.md) (git, mesh sync, doc routing).
+
 This document outlines recurring checks agents should perform to keep the **Forgotten Future** project internally consistent over time.
 
 Use it as a **playbook** whenever you modify chapters, lore, or structure.

@@ -1,5 +1,7 @@
 # Forgotten Future: The Story
 
+**Assistants:** start at [`AGENTS.md`](AGENTS.md).
+
 A Clevertree Production.
 
 This repository contains the narrative foundation and manuscript for **Forgotten Future**, an AI-driven science fiction epic.
