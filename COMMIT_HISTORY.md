@@ -1,3 +1,4 @@
+5212610 Add consolidated AGENTS.md and server-side mesh publish guidance.
 bff49f4 feat(relay): add .relay.yaml and get hook for markdown/WebP
 664448a Update character profiles for Arlo, Kiran, and Azar with Black representation and Great Fry history
 831b838 narrative: refine ch11 synopsis with core beats and fulfill titles

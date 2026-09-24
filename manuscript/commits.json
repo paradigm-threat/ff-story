@@ -1,5 +1,10 @@
 [
     {
+        "hash": "5212610",
+        "date": "2026-08-23",
+        "message": "Add consolidated AGENTS.md and server-side mesh publish guidance."
+    },
+    {
         "hash": "bff49f4",
         "date": "2026-05-27",
         "message": "feat(relay): add .relay.yaml and get hook for markdown/WebP"
@@ -93,10 +98,5 @@
         "hash": "476becf",
         "date": "2026-02-05",
         "message": "Corrected plot point in chapter 34: Lem enters White Forest alone and is consumed by the snake while his unit stays outside"
-    },
-    {
-        "hash": "5e84dd9",
-        "date": "2026-02-05",
-        "message": "Refactor chapters 1-16 to preserve Lem's mystery; update world-building and manuscript"
     }
 ]
