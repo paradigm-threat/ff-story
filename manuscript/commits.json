@@ -1,5 +1,10 @@
 [
     {
+        "hash": "9d6dd04",
+        "date": "2026-09-24",
+        "message": "Pass ?w= into git-blob raster optimize so thumbs shrink."
+    },
+    {
         "hash": "5212610",
         "date": "2026-08-23",
         "message": "Add consolidated AGENTS.md and server-side mesh publish guidance."
@@ -93,10 +98,5 @@
         "hash": "1c6c711",
         "date": "2026-02-05",
         "message": "Update Chapters 32-34: Plot corrections for Lem's isolation, Core tracking limits, and Mission Mochikomi briefing"
-    },
-    {
-        "hash": "476becf",
-        "date": "2026-02-05",
-        "message": "Corrected plot point in chapter 34: Lem enters White Forest alone and is consumed by the snake while his unit stays outside"
     }
 ]

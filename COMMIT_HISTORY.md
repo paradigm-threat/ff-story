@@ -1,3 +1,4 @@
+9d6dd04 Pass ?w= into git-blob raster optimize so thumbs shrink.
 5212610 Add consolidated AGENTS.md and server-side mesh publish guidance.
 bff49f4 feat(relay): add .relay.yaml and get hook for markdown/WebP
 664448a Update character profiles for Arlo, Kiran, and Azar with Black representation and Great Fry history

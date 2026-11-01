@@ -87,6 +87,7 @@ Use it as a **playbook** whenever you modify chapters, lore, or structure.
     - Newly discovered contradictions.
     - Questions that need lore decisions.
     - Notes on how contradictions were resolved.
+  - Use `docs/PENDING_IDEAS.md` for **undeveloped creative ideas** (brainstorming, screenshot captures, beats not yet decided). Do not mix unfinished idea backlog into the contradiction ledger.
 
 - **Workflow when you find a contradiction**
   1. **Confirm** which source should be authoritative (usually the master timeline + `world-building/facts.md`).
@@ -94,6 +95,11 @@ Use it as a **playbook** whenever you modify chapters, lore, or structure.
   3. If you do fix it:
      - Record the resolution briefly in the “Resolved (Authoritative) Answers” section or in a new bullet below.
      - Update all affected files (lore, chapters, plans) in the same change set.
+
+- **Workflow for a new story idea**
+  1. Add it under the appropriate section in `docs/PENDING_IDEAS.md` (Pending / Needs revision / Park meta).
+  2. When the idea is accepted into canon, update the relevant world-building or chapter file, then move it to **Done in canon** with a citation.
+  3. If adopting the idea would contradict existing lore, log the conflict in `OUTSTANDING_QUESTIONS.md` (or keep it under Needs revision in `PENDING_IDEAS.md`) until resolved.
 
 - **Examples of good use**
   - Documenting one-year offsets (e.g., Year 24 vs Year 25 AT for late siege events) as “fog of history” decisions.

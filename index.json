@@ -221,6 +221,9 @@
     "OUTSTANDING_QUESTIONS.md": {
       "_title": "Outstanding Questions & Plot Contradictions: Forgotten Future"
     },
+    "PENDING_IDEAS.md": {
+      "_title": "Pending Story Ideas"
+    },
     "PLAN_13_PLUS.md": {
       "_title": "Plan: Forgotten Future (13+ Track)"
     },
@@ -239,7 +242,7 @@
     "writing-strategies.md": {
       "_title": "Writing Strategies & Recommendations"
     },
-    "_count": 15
+    "_count": 16
   },
   "hooks": {
     "server": {
@@ -848,5 +851,5 @@
     },
     "_count": 41
   },
-  "_count": 245
+  "_count": 246
 }

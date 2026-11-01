@@ -1,5 +1,7 @@
 # Outstanding Questions & Plot Contradictions: Forgotten Future
 
+Undeveloped creative brainstorming and screenshot idea capture live in [`PENDING_IDEAS.md`](PENDING_IDEAS.md). Use this file for contradictions, lore decisions, and resolved Q&A only.
+
 ---
 
 ## 🤖 AI-Driven Narrative Methodology

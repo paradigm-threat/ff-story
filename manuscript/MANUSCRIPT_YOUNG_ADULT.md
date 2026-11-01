@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.144
-> Updated: 2026-09-24
+> Draft Version: 0.13.145
+> Updated: 2026-11-01
 
 # PART I: LUNAR MISSION
 
