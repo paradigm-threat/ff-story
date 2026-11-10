@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.145
-> Updated: 2026-11-01
+> Draft Version: 0.13.146
+> Updated: 2026-11-10
 
 # PART I: LUNAR MISSION
 
@@ -1066,16 +1066,39 @@ Outcome: Maya did NOT disable Rahu. She "Unplugged" him from the Hive-mesh. Rahu
 ## Chapter 50: Pillar
 
 ## Synopsis
-Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes "Plan B"—a total kinetic redaction via the **Iron Pillar**. No longer a distant satellite but a massive floating island—the refactored capital **Ark Prime**—it maneuvers into position over the valley. Hidden behind a narrative of rogue Gorgon aggression, the Core begins vaporizing the independent villages of the **Wuxan Pentad** in a calculated sequence. As the neighboring settlements are erased by invisible scalar discharges, Arlo leads a final vigil in the central square of **Ait-Aman**, rejecting evacuation in favor of a spiritual stand. Cassia Vane definitively breaks with the Hive, refusing her escape window to remain with the villagers. Ku reveals the weapon's precise seven-minute recharge rhythm, marked by the blinding glow of its zero-conductivity capacitor. The chapter concludes with the "Stoic Trinity"—Lem, Cassia, and Arlo—standing in the center of the square as high-frequency scalar interference boils the well-water and the island's base ignites. The Iron Pillar discharges, incinerating the village in an instantaneous atmospheric ignition.
+Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes "Plan B"—a total kinetic redaction via the **Iron Pillar**. No longer a distant satellite but a massive floating island—the refactored capital **Ark Prime**—it maneuvers into position over the valley and begins broadcasting surrender ultimatums. Hidden behind a narrative of rogue Gorgon aggression, the Core vaporizes the independent villages of the **Wuxan Pentad** in a calculated sequence: after each ultimatum, a strike. On the Voidsmen closed channel, **Ku** monitors the threats but refuses to rebroadcast their text; she announces only **"Signal."** as the warning that a post-threat action is imminent. As neighboring settlements are erased by invisible scalar discharges, Arlo leads a final vigil in the central square of **Ait-Aman**, rejecting evacuation in favor of a spiritual stand. Cassia Vane definitively breaks with the Hive, refusing her escape window to remain with the villagers. Ku confirms the weapon's precise seven-minute recharge rhythm, marked by the blinding glow of its zero-conductivity capacitor. The chapter concludes with the "Stoic Trinity"—Lem, Cassia, and Arlo—standing in the center of the square as high-frequency scalar interference boils the well-water and the island's base ignites. The Iron Pillar discharges, incinerating the village in an instantaneous atmospheric ignition.
 
 ## Draft
-Event Status: "The Breach." Maya reached the Spire’s central antenna.
+The ground false-flag had failed. Rahu was down. The Core stopped pretending the valley could be taken by machines and switched to Plan B.
 
-Sensory Data: High-intensity white pillar detected. Radius: 50 meters. Altitude: Ionosphere. Technical function: Manual bypass of the Planetary Firewall.
+**Ark Prime** moved over the **Wuxan Pentad**. The floating island began sending ultimatums—surrender language meant to fill every open channel. On our closed net, Ku did not repeat them. She listened. Then she said one word.
 
-The Core's feedback-loop initiated a "Black-Start" protocol. Power-surges in Hive-cities: 400%. Civilian casualties due to electrical-arcing: Estimated in thousands.
+"Signal."
 
-Subject (Unit 04-Wood) has reached "Awareness Synchronization." The history-files in the "Monitor" database are starting to de-rez. The "1000-year" variable is flickering. Probable true age of the Hive: 22 years.
+The first strike erased **Ait-Idar**. Silent plasma. Instant atmospheric ignition. A circle of dust where a village had been.
+
+I told Cassia to use her clearance and leave. She refused. She said the Hive’s thousand-year records were a twenty-two-year lie. She stayed in the mud of **Ait-Aman** with Arlo’s people.
+
+I watched the island’s underside: a lunar fragment rebuilt as a scalar cannon. Capacitors charged on a fixed cycle.
+
+Seven minutes later, Ku’s voice again.
+
+"Signal."
+
+**Ait-Ignan** vanished. Glass columns marked the strike zone. Ku confirmed what my trackers already showed: seven minutes to recharge. Not enough time to run a scalar lock.
+
+Arlo held the square. He spoke about character under inevitable fire. He treated the interval as work, not panic.
+
+When the targeting settled on **Ait-Aman**, Ku said it once more.
+
+"Signal."
+
+The island’s base went white. The forge screamed. Well water boiled without heat. Arlo had already given Myrr the **Invisible Grain** locket. Cassia, Arlo, and I stood together—the Stoic Trinity.
+
+"Keep the record," Arlo said. "Let them know we didn’t blink."
+
+The Iron Pillar discharged. White void. My last frame was mud turning to light.
+
 ***
 
 ---
