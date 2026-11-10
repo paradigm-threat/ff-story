@@ -69,6 +69,11 @@ When an idea is accepted into canon: update the relevant world-building or chapt
   - **Validation:** Forbidden 202X truth and final Broadcast exist; city-side oral retelling is not a dedicated beat.
   - **Suggested home:** Hive City chapter beats; `world-building/society.md` / Thousand-Year Fallacy notes.
 
+- [ ] **#49 — ground surprises after early "Signal." calls (Ch.50)**
+  - **Idea:** Invent specific on-the-ground surprises that briefly tip the northern battle toward the Core after Ku’s first couple of **"Signal."** announcements (before any village vaporization). Purpose: teach reader/viewer that "Signal" means something bad follows. Surprises should spend the enemy’s ground tricks so that Ku’s **last** "Signal." can precede the first island strike (**Ait-Idar**).
+  - **Validation:** Cadence scaffolded in `chapters/chapter_50_pillar.md` (beats 4–5 + draft placeholders); concrete surprises not chosen yet.
+  - **Suggested home:** `chapters/chapter_50_pillar.md` Chapter Beats 4–5 and both drafts.
+
 ### World-building / lore
 
 - [ ] **#1 — true history was known before reset**
@@ -178,7 +183,7 @@ When an idea is accepted into canon: update the relevant world-building or chapt
   - **Evidence:** Azar: “Responsibility belongs to the programmer, never the programmed.” (Ground Wire / Ait-Aman manuscript prose).
 
 - [x] **#48 — "signal" during the north village vaporization battle**
-  - **Evidence:** `chapters/chapter_50_pillar.md` — Ark Prime ultimatums; Ku withholds threat text on the closed channel; says **"Signal."** only before **Ait-Idar**, then warns later strikes in plain speech ("They're attacking again" / "Here comes another attack").
+  - **Evidence:** `chapters/chapter_50_pillar.md` — Ark Prime ultimatums (no village strike yet); Ku withholds threat text but marks each transmission **"Signal."** on the closed channel; early Signals precede ground setbacks; **last** "Signal." precedes **Ait-Idar** vaporization; later strikes use plain speech. Specific ground surprises tracked as pending **#49**.
 
 ---
 

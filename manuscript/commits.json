@@ -1,5 +1,10 @@
 [
     {
+        "hash": "c794f79",
+        "date": "2026-11-10",
+        "message": "narrative: use Signal only before first Pillar strike"
+    },
+    {
         "hash": "ea87e2f",
         "date": "2026-11-10",
         "message": "narrative: add Signal cadence to Ch.50 Pillar vaporization"
@@ -93,10 +98,5 @@
         "hash": "f082012",
         "date": "2026-02-05",
         "message": "update writing rules"
-    },
-    {
-        "hash": "88cd25a",
-        "date": "2026-02-05",
-        "message": "Rewrite Chapter 30 synopsis, beats and drafts"
     }
 ]

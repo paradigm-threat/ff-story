@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.147
+> Draft Version: 0.13.148
 > Updated: 2026-11-10
 
 # PART I: LUNAR MISSION
@@ -1066,18 +1066,28 @@ Outcome: Maya did NOT disable Rahu. She "Unplugged" him from the Hive-mesh. Rahu
 ## Chapter 50: Pillar
 
 ## Synopsis
-Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes "Plan B"—a total kinetic redaction via the **Iron Pillar**. No longer a distant satellite but a massive floating island—the refactored capital **Ark Prime**—it maneuvers into position over the valley and begins broadcasting surrender ultimatums. Hidden behind a narrative of rogue Gorgon aggression, the Core vaporizes the independent villages of the **Wuxan Pentad** in a calculated sequence: after each ultimatum, a strike. On the Voidsmen closed channel, **Ku** monitors the threats but refuses to rebroadcast their text. Before the first village falls she announces only **"Signal."**—a coded warning that enemy ultimatums are live and a post-threat action is imminent. After **Ait-Idar** is erased, the threat level is obvious; Ku drops the code word and warns the next strikes in plain speech. As neighboring settlements are erased by invisible scalar discharges, Arlo leads a final vigil in the central square of **Ait-Aman**, rejecting evacuation in favor of a spiritual stand. Cassia Vane definitively breaks with the Hive, refusing her escape window to remain with the villagers. Ku confirms the weapon's precise seven-minute recharge rhythm, marked by the blinding glow of its zero-conductivity capacitor. The chapter concludes with the "Stoic Trinity"—Lem, Cassia, and Arlo—standing in the center of the square as high-frequency scalar interference boils the well-water and the island's base ignites. The Iron Pillar discharges, incinerating the village in an instantaneous atmospheric ignition.
+Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes "Plan B"—a total kinetic redaction via the **Iron Pillar**. No longer a distant satellite but a massive floating island—the refactored capital **Ark Prime**—it maneuvers into position over the valley and begins broadcasting a series of surrender ultimatums, last warnings, and angry threats. On the Voidsmen closed channel, **Ku** refuses to rebroadcast the island’s text—she will not let the threats themselves panic the net—but she will not hide that traffic arrived. Each time the island transmits, she says only **"Signal."** The island does not vaporize a village yet. After the first couple of Signals, on-the-ground surprises briefly tip the battle toward the enemy, teaching everyone on the channel what the word means: something bad follows. When those ground tricks are spent, Ku’s last **"Signal."** precedes the erasure of a village—**Ait-Idar**—the first Iron Pillar strike. After that, she drops the code word and warns later vaporization strikes in plain speech. As neighboring settlements are erased by invisible scalar discharges, Arlo leads a final vigil in the central square of **Ait-Aman**, rejecting evacuation in favor of a spiritual stand. Cassia Vane definitively breaks with the Hive, refusing her escape window to remain with the villagers. Ku confirms the weapon's precise seven-minute recharge rhythm, marked by the blinding glow of its zero-conductivity capacitor. The chapter concludes with the "Stoic Trinity"—Lem, Cassia, and Arlo—standing in the center of the square as high-frequency scalar interference boils the well-water and the island's base ignites. The Iron Pillar discharges, incinerating the village in an instantaneous atmospheric ignition.
 
 ## Draft
 The ground false-flag had failed. Rahu was down. The Core stopped pretending the valley could be taken by machines and switched to Plan B.
 
-**Ark Prime** moved over the **Wuxan Pentad**. The floating island began sending ultimatums—surrender language meant to fill every open channel. On our closed net, Ku did not repeat them. She listened. Then she said one word.
+**Ark Prime** moved over the **Wuxan Pentad**. The floating island began sending ultimatums—last warnings, angry surrender scripts meant to fill every open channel. It did not fire on a village yet. On our closed net, Ku did not repeat the words. She would not let their threats ride our channel. She also would not hide that something had come in. She listened. Then she said one word.
 
 "Signal."
 
-The first strike erased **Ait-Idar**. Silent plasma. Instant atmospheric ignition. A circle of dust where a village had been.
+Something bad followed on the ground. A brief enemy surge—enough to shove our line and prove the word was not empty. Details still to lock; the pattern was clear.
 
-After that, she stopped using the word. The threats were already at the top. Everyone on the net knew what a new ultimatum meant.
+Another ultimatum. Ku again:
+
+"Signal."
+
+Another ground surprise. The Core spent another trick. The battle tipped against us for a second, then we held.
+
+When the ground tricks were used up, the island still sent one more transmission. Ku said it one last time.
+
+"Signal."
+
+Then the first village strike. **Ait-Idar** erased. Silent plasma. Instant atmospheric ignition. A circle of dust where a village had been. After that, she stopped using the word.
 
 I told Cassia to use her clearance and leave. She refused. She said the Hive’s thousand-year records were a twenty-two-year lie. She stayed in the mud of **Ait-Aman** with Arlo’s people.
 
