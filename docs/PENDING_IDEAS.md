@@ -178,7 +178,7 @@ When an idea is accepted into canon: update the relevant world-building or chapt
   - **Evidence:** Azar: “Responsibility belongs to the programmer, never the programmed.” (Ground Wire / Ait-Aman manuscript prose).
 
 - [x] **#48 — "signal" during the north village vaporization battle**
-  - **Evidence:** `chapters/chapter_50_pillar.md` — Ark Prime ultimatums; Ku withholds threat text on the closed channel and says only **"Signal."** before each vaporization (Ait-Idar, Ait-Ignan, Ait-Aman).
+  - **Evidence:** `chapters/chapter_50_pillar.md` — Ark Prime ultimatums; Ku withholds threat text on the closed channel; says **"Signal."** only before **Ait-Idar**, then warns later strikes in plain speech ("They're attacking again" / "Here comes another attack").
 
 ---
 

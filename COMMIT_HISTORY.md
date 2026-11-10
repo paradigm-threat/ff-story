@@ -1,3 +1,4 @@
+ea87e2f narrative: add Signal cadence to Ch.50 Pillar vaporization
 8cde155 docs: add PENDING_IDEAS backlog for undeveloped story ideas
 9d6dd04 Pass ?w= into git-blob raster optimize so thumbs shrink.
 5212610 Add consolidated AGENTS.md and server-side mesh publish guidance.

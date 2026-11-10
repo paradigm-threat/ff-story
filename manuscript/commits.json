@@ -1,5 +1,10 @@
 [
     {
+        "hash": "ea87e2f",
+        "date": "2026-11-10",
+        "message": "narrative: add Signal cadence to Ch.50 Pillar vaporization"
+    },
+    {
         "hash": "8cde155",
         "date": "2026-11-01",
         "message": "docs: add PENDING_IDEAS backlog for undeveloped story ideas"
@@ -93,10 +98,5 @@
         "hash": "88cd25a",
         "date": "2026-02-05",
         "message": "Rewrite Chapter 30 synopsis, beats and drafts"
-    },
-    {
-        "hash": "a1ac972",
-        "date": "2026-02-05",
-        "message": "Update locket lore, Lynn's backstory, and ch29 briefing integration"
     }
 ]
