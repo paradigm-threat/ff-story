@@ -8,7 +8,7 @@ In the age of generative AI and automated agents, the role of the author is evol
 3. **Data Integrity:** Ensure that the input data for the AI (the "lore") is original and consistent. The AI should be used to explore the author's world, not to pull from copyrighted external databases without permission.
 4. **Attribution and Respect:** If an AI model or specific agent was pivotal to the process, acknowledging the technology's contribution reflects a modern understanding of collaborative creation.
 
-## The CleverTree AI Commandments
+## The Clevertree AI Commandments
 
 These rules define the boundary between "AI-assisted authorship" and "soulless generation."
 

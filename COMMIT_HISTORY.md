@@ -1,3 +1,4 @@
+83b3565 narrative: Signal precedes ground setbacks before first village strike
 c794f79 narrative: use Signal only before first Pillar strike
 ea87e2f narrative: add Signal cadence to Ch.50 Pillar vaporization
 8cde155 docs: add PENDING_IDEAS backlog for undeveloped story ideas
